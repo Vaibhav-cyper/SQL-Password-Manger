@@ -1,0 +1,4 @@
+For Running this code you need to two library of python which are following:
+
+string 
+mysql.connnector 
