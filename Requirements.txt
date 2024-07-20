@@ -1,4 +1,6 @@
-For Running this code you need to two library of python which are following:
+# Install SQL in your system
+# Create your account and give any passwords 
+# then install these python libraries
 
 string 
 mysql.connnector 
